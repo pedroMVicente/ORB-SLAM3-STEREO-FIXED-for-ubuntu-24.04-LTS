@@ -92,3 +92,6 @@ my_settings.txt
 borrar/*
 
 */ExecMean.txt
+
+datasets/*
+test_webcam.sh
